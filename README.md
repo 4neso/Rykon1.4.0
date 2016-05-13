@@ -11,7 +11,8 @@ A web server is an information technology that processes requests via HTTP, the 
 Rykon comes from czech sentence  "Rychlost a výkon" means "Speed and performance </br>
 
 <h3> Building </h3>
-Development of Rykon began in 2016 by Team Fourneso <!-- as graduation project 
+Development of Rykon began in 2016 by Team Fourneso
+<!-- as graduation project 
 </br> Containing these students 
 </br>
 1-<a href='https://www.facebook.com/h.zoma.75' >  Hazem Sabry</a> </br>
@@ -22,7 +23,7 @@ Development of Rykon began in 2016 by Team Fourneso <!-- as graduation project
 
 under supervision of<br />
  <a href='https://www.facebook.com/alhussien.seddik?fref=ts' >Prof Alhusseini seddik  </a>
--->>
+-->
 
 <h3>Feature overview</h3> 
 <h5> Supported </h5>
