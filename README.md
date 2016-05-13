@@ -129,6 +129,12 @@ main form <br />
 <a href='http://www.gnu.org/licenses/gpl-3.0.html' > Released under the GPL   license </a> </br>
 </hr>
 
+<h3 > Security </h3>
+Acces to the Rykon content is standing to the adminstrator , he can make the server public to all or make it private 
+<br />
+Private server will be accessable using credentials http authentication <br />
+All build in extensions could be protected with a password  
+
 
 
 <h3> Downloads </h3> 
